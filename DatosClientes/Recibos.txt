@@ -1,0 +1,12 @@
+Fecha del recibo: 2024-04-12
+Datos cliente 
+DNI: 123456789k
+Nombre y apellidos: kleyner lopez delgado
+Teléfono: 987654321
+Correo electrónico: kleyner@gmail.com
+Datos viaje 
+Salida: Ibiza
+Destino: Barcelona
+Precio: 701
+
+--------------------------------
