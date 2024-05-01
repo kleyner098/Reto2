@@ -1,4 +1,7 @@
-package org.example;
+package org.example.otros;
+
+import org.example.clases.Persona;
+import org.example.clases.Viaje;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -9,7 +12,7 @@ public class Guardar {
     private static File fichero = new File("./DatosClientes/Recibos.txt");
 
 
-    public static boolean guardarDatos(Persona cliente, Viaje1 viaje){
+    public static boolean guardarDatos(Persona cliente, Viaje viaje){
 
         try {
             FileWriter writer = new FileWriter(fichero, true);

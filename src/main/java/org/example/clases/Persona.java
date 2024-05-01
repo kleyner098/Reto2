@@ -1,4 +1,4 @@
-package org.example;
+package org.example.clases;
 
 public class Persona {
     private String nombreyapellidos;

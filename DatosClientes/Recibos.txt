@@ -10,3 +10,15 @@ Destino: Barcelona
 Precio: 701
 
 --------------------------------
+Fecha del recibo: 2024-04-19
+Datos cliente 
+DNI: 12438798F
+Nombre y apellidos: Kleyner López
+Teléfono: 123456789
+Correo electrónico: kleyner@hotmail.com
+Datos viaje 
+Salida: Londres
+Destino: París
+Precio: 437
+
+--------------------------------
